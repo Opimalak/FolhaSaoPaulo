@@ -1,15 +1,23 @@
-.flex{
-    display: flex;
-    flex-wrap: wrap;
-}
-.centerimg1{
-    justify-content: center;
-    margin: auto;
+body{
     text-align: center;
+    margin: auto;
+    margin-bottom: 50px ;
+    margin-top: 15px;
+
+}
+
+
+.issovaipmeio {
+    text-align: center;
+}
+
+.letrasproutrold{
+    text-align: left;
+    padding-left: 18%;
+    
+}
+
+.compartilhar{
+    display: flex;
     align-items: center;
-    align-self: center;
-    align-content: center;
-    width: cover;
-    height: cover;
-    background-color: blueviolet;
 }
